@@ -116,9 +116,9 @@
             // 
             // btnAggiungi
             // 
-            this.btnAggiungi.Location = new System.Drawing.Point(44, 176);
+            this.btnAggiungi.Location = new System.Drawing.Point(37, 176);
             this.btnAggiungi.Name = "btnAggiungi";
-            this.btnAggiungi.Size = new System.Drawing.Size(72, 29);
+            this.btnAggiungi.Size = new System.Drawing.Size(88, 29);
             this.btnAggiungi.TabIndex = 9;
             this.btnAggiungi.Text = "Aggiungi";
             this.btnAggiungi.UseVisualStyleBackColor = true;
@@ -128,7 +128,7 @@
             // 
             this.btnModifica.Location = new System.Drawing.Point(193, 176);
             this.btnModifica.Name = "btnModifica";
-            this.btnModifica.Size = new System.Drawing.Size(72, 29);
+            this.btnModifica.Size = new System.Drawing.Size(85, 29);
             this.btnModifica.TabIndex = 12;
             this.btnModifica.Text = "Modifica";
             this.btnModifica.UseVisualStyleBackColor = true;
